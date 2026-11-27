@@ -84,7 +84,7 @@ The project includes:
 ## Repository Structure
 
 ```text
-loan-analytics-project/
+Loan_Portfolio_Repayment_Analysis/
 │
 ├── generate.py
 ├── Data/
