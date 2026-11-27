@@ -17,8 +17,6 @@ The objective is to transform raw loan data into meaningful business insights th
 
 ## Dataset Overview
 
-The project includes:
-
 - 500 loan records
 - 300 customer records
 - Loan types, amounts, terms, and statuses
@@ -84,32 +82,4 @@ The project includes:
 ## Repository Structure
 
 ```text
-Loan_Portfolio_Repayment_Analysis/
-│
-├── generate.py
-├── Data/
-├── SQL/
-│   ├── 01_Loan_Portfolio_Overview.sql
-│   ├── 02_Repayment_and_Default_Analysis.sql
-│   ├── 03_Customer_Analysis.sql
-│   ├── 04_Risk_and_Performance_Analysis.sql
-│   └── 05_Loan_Performance_and_Operational_Insights.sql
-│
-├── Dashboard_PDFs/
-├── Screenshots/
-└── README.md
-```
-
-## Skills Demonstrated
-
-- SQL querying and data aggregation
-- KPI development
-- Exploratory data analysis
-- Customer and portfolio segmentation
-- Repayment and default analysis
-- Business insight generation
-- Dashboard development and data storytelling
-
----
-
-**Project Type:** Data Analytics Portfolio Project
+Loan_Portfolio_
